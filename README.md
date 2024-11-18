@@ -7,5 +7,9 @@
 
 
  ## Create an account in sandbox intasend
- copy your publishable API key.
- open intasend documentation and navigate to online payment section.
+ Navigate to the intergration part and copy your publishable API key.
+ open intasend documentation and navigate to ACCEPT PAYMENT section.
+ and select Payment Button Element
+ follow he following steps to setup.\
+ 
+
