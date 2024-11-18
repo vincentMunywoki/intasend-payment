@@ -1,4 +1,4 @@
-## create new folader call ONLINE-PAYMENT.
+## create new folader called <YOUR-FOLDER-NAME>
 
 -- create 3 files
   -index.html
