@@ -25,7 +25,7 @@ HTML
 <button class="intaSendPayButton" data-amount="10" data-currency="KES">Pay Now</button>
 Note: For standard button integration, IntaSend uses the class name to intaSendPayButton to recognize the button and trigger the payment action on click. On the payment button, you can add already available options e.g amount, currency, customer emails, etc using the data-* attribute. Learn more on the available payment data options here.
 
-3. Complete setup
+3. Complete setup.
 Complete setup by setting your publishable key and other options e.g redirect URL. Access your public API Key from your account under settings - API keys panel. IntaSend also provides a sandbox environment for API Testing
 
 📘
